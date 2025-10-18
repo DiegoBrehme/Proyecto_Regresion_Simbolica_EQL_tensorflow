@@ -1,0 +1,23 @@
+{
+  "val_error": 0.010314838960766792,
+  "complexity": 6,
+  "extr_error": 0.010254544205963612,
+  "metrics": {
+    "train": {
+      "MSE": 7.5585662671073806e-06,
+      "NRMSE": 0.00043311892659403384,
+      "R2": 0.9999963072914397
+    },
+    "val": {
+      "MSE": 0.00010916058818111196,
+      "NRMSE": 0.0016314020613208413,
+      "R2": 0.999948132004647
+    },
+    "test": {
+      "MSE": 0.00010741531878011301,
+      "NRMSE": 0.0016291463980451226,
+      "R2": 0.9999484109139303
+    }
+  },
+  "equation": "Las ecuaciones simbólicas están en la carpeta del experimento (latex_y*.png / graph_y*.png)."
+}

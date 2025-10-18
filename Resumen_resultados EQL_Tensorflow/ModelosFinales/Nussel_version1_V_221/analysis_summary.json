@@ -1,0 +1,18 @@
+{
+  "val_error": 0.04103776067495346,
+  "complexity": 11,
+  "extr_error": 0.037186961621046066,
+  "metrics": {
+    "train": {
+      "MSE": 7.033672332763672,
+      "NRMSE": 0.02230452187359333,
+      "R2": 0.9837001115083694
+    },
+    "val": {
+      "MSE": 7.823392868041992,
+      "NRMSE": 0.023507580161094666,
+      "R2": 0.9828635305166245
+    }
+  },
+  "equation": "Revisa latex_y*.png / graph_y*.png del EvaluationHook en la carpeta del experimento."
+}
